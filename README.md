@@ -26,4 +26,16 @@ Welcome to Code 102! We're going to spend five nights covering the essentials of
 * Git
   * [Git Documentation](https://git-scm.com/docs)
   * [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
+  * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+## Useful Keyboard Shortcuts
+
+### Mac
+
+| Shortcut    |  What It Does                                                            |
+| ----------- | -------------------------------------------------------------------------|
+| Cmd-Shift-H | To get to your home directory in the Finder window                       |
+| Cmd-Shift-. | To show hidden files/folders in the Finder window or the Atom "save" UI  |
+| Cmd-N       | Open a new, blank file in Atom |
+| Cmd-T       | Open a new, blank tab in Chrome or Terminal |
